@@ -1,0 +1,11 @@
+--- 
+address: 
+  city: washington dc
+  line1: My address line 1
+  line2: address line 2
+  zip: 20000
+age: 36
+name: Test User
+roles: 
+ - User
+ - Editor
